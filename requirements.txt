@@ -1,4 +1,5 @@
-streamlit
-scikit-learn
 pandas
-numpy
+matplotlib.pyplot
+sklearn.preprocessing.StandardScaler
+scipy.cluster.hierarchy
+joblib 
